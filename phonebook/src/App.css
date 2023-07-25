@@ -1,0 +1,40 @@
+body {
+  background-color: slategray;
+  color: azure;
+}
+
+form {
+  margin-top: 20px;
+}
+
+h3 {
+  margin-bottom: 5px;
+}
+
+button {
+  margin-top: 5px;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.error {
+  color: #DEC8A9;
+  background-color: #51667A;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.notice {
+  color: #8BB489;
+  background-color: #51667A;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+}

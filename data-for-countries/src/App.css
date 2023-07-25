@@ -1,0 +1,22 @@
+
+body {
+  text-align: center;
+  background-color: dimgray;
+  padding-top: 20px;
+}
+
+li {
+  padding-top: 20px;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+#langList {
+  margin: 0;
+}
+  
